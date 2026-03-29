@@ -76,7 +76,7 @@ Experienced in working with SIEM tools such as Splunk and Wazuh to validate aler
 
 ## Projects
 
-### 🐧 Linux Privilege Escalation Investigation
+### Linux Privilege Escalation Investigation
 - Investigated obfuscated Base64 command execution from Linux process logs  
 - Decoded payload revealing kernel exploit targeting Ubuntu 16.04.4  
 - Confirmed escalation from service account to UID 0 (root)  
@@ -85,7 +85,7 @@ Experienced in working with SIEM tools such as Splunk and Wazuh to validate aler
 
 ---
 
-### 🔎 Splunk Brute Force Attack Investigation
+### Splunk Brute Force Attack Investigation
 - Analyzed HTTP POST authentication logs to identify password spraying attack  
 - Extracted credentials using SPL queries and regex field extraction  
 - Identified attacker IP responsible for 400+ login attempts  
@@ -94,7 +94,7 @@ Experienced in working with SIEM tools such as Splunk and Wazuh to validate aler
 
 ---
 
-### 🧪 Sysmon Malware Analysis
+### Sysmon Malware Analysis
 - Investigated process execution using Sysmon Event ID 1  
 - Tracked file creation activity via Event ID 11  
 - Correlated ProcessGUID to reconstruct attack chain  
@@ -103,7 +103,7 @@ Experienced in working with SIEM tools such as Splunk and Wazuh to validate aler
 
 ---
 
-### ⚔️ Atomic Red Team Detection Lab
+### Atomic Red Team Detection Lab
 - Simulated MITRE ATT&CK technique T1112 (Registry Modification)  
 - Validated detection through Sysmon telemetry  
 - Identified key event artifacts and process activity  
