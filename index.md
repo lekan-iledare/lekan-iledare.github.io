@@ -48,7 +48,7 @@ Currently building and investigating real-world attack scenarios using Splunk, S
 
 ---
 
-## Featured Projects
+##  Projects
 
 ### 🐧 Linux Privilege Escalation Investigation
 - Investigated obfuscated Base64 command execution from Linux process logs
@@ -56,7 +56,7 @@ Currently building and investigating real-world attack scenarios using Splunk, S
 - Confirmed escalation from tomcat8 service account to UID 0 (root)
 - Built full incident timeline and impact assessment (HIGH severity)
 
-👉 [View Project](./projects/linux-privilege-escalation.html)
+
 
 ---
 
@@ -66,7 +66,7 @@ Currently building and investigating real-world attack scenarios using Splunk, S
 - Correlated timestamps to determine successful compromise
 - Identified attacker IP and attack pattern
 
-👉 (project link coming next)
+
 
 ---
 
@@ -76,7 +76,7 @@ Currently building and investigating real-world attack scenarios using Splunk, S
 - Correlated ProcessGUID across events
 - Mapped activity to MITRE ATT&CK techniques
 
-👉 (project link coming next)
+
 
 ---
 
@@ -86,7 +86,7 @@ Currently building and investigating real-world attack scenarios using Splunk, S
 - Confirmed registry modification activity (Event ID 12)
 - Tuned detection logic to reduce false positives
 
-👉 (project link coming next)
+
 
 ---
 
